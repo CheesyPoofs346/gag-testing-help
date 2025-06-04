@@ -1890,7 +1890,7 @@ if(!targetPos = 1)
             else
                 uiUniversal("0646", 0, 1)
         else if(targetPos in 5, 6)
-            uiUniversal("064646", 0, 1)
+            uiUniversal("0646", 0, 1)
         else if(targetPos in 7, 8, 9, 10)
             if(delta == 1 && (targetPos - 6) == 1 )
                 uiUniversal("460646", 0, 1)
